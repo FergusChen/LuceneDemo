@@ -1,0 +1,32 @@
+# Compiled class file
+*.class
+# artifact 的out目录
+out/
+target/
+classes/
+data/
+# IntelliJ IDEA 的配置目录
+.idea/
+META-INF/
+# Log file
+*.log
+logs/
+# BlueJ files
+*.ctxt
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+testWebService.sh
+TODO*
+nohup.out
+# Package Files #
+# *.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.zip
+.DS_Store
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
