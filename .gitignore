@@ -19,7 +19,7 @@ logs/
 testWebService.sh
 TODO*
 nohup.out
-.iml
+*.iml
 # Package Files #
 # *.jar
 *.war
